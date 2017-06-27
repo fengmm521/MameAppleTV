@@ -2843,6 +2843,8 @@
 				TargetAttributes = {
 					0A48C58C1BB687770004FCB3 = {
 						CreatedOnToolsVersion = 7.1;
+						DevelopmentTeam = T9NN99338E;
+						LastSwiftMigration = 0830;
 					};
 				};
 			};
@@ -3519,6 +3521,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
+				DEVELOPMENT_TEAM = T9NN99338E;
 				EMBEDDED_CONTENT_CONTAINS_SWIFT = NO;
 				GCC_CHAR_IS_UNSIGNED_CHAR = YES;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -3674,11 +3677,12 @@
 					"-lobjc",
 					"-lpthread",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.ksmith.iMame4tvOS;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ksmidddd.ddfsdf;
 				PRODUCT_NAME = "tvOS Mame";
 				PROVISIONING_PROFILE = "";
 				SDKROOT = appletvos;
 				STANDARD_C_PLUS_PLUS_LIBRARY_TYPE = dynamic;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = 3;
 				TVOS_DEPLOYMENT_TARGET = 9.0;
 				USER_HEADER_SEARCH_PATHS = "src src/iOS src/zlib src/sound";
@@ -3707,6 +3711,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = T9NN99338E;
 				EMBEDDED_CONTENT_CONTAINS_SWIFT = NO;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -3736,9 +3741,10 @@
 					"-Wshadow",
 					"-Wno-write-strings",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.ksmith.iMame4tvOS;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ksmidddd.ddfsdf;
 				PRODUCT_NAME = "tvOS Mame";
 				SDKROOT = appletvos;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = 3;
 				TVOS_DEPLOYMENT_TARGET = 9.0;
 				VALIDATE_PRODUCT = YES;
